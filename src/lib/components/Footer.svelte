@@ -12,9 +12,6 @@
                     &copy; {currentYear}
                     {config.personal.name}. All rights reserved.
                 </p>
-                <p class="footer-subtitle">
-                    Built with Svelte • Deployed on GitHub Pages
-                </p>
             </div>
 
             <div class="footer-links">

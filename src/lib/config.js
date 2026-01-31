@@ -72,11 +72,6 @@ export const config = {
             icon: "🗄️"
         },
         {
-            name: "UI/UX Design",
-            description: "Creating intuitive interfaces with HTML/CSS/JS",
-            icon: "🎨"
-        },
-        {
             name: "Server Administration",
             description: "Linux server management and optimization",
             icon: "🖥️"
@@ -85,34 +80,7 @@ export const config = {
 
     // Projects Portfolio
     projects: [
-        {
-            title: "Custom Economy System",
-            description: "Advanced economy system with banking, jobs, and businesses for FiveM servers",
-            image: "/projects/economy.jpg", // Add images to static/projects folder
-            tags: ["Lua", "MySQL", "FiveM"],
-            liveUrl: null,
-            githubUrl: null,
-            featured: true
-        },
-        {
-            title: "Vehicle Customization",
-            description: "Comprehensive vehicle customization system with performance upgrades",
-            image: "/projects/vehicles.jpg",
-            tags: ["Lua", "FiveM", "UI"],
-            liveUrl: null,
-            githubUrl: null,
-            featured: true
-        },
-        {
-            title: "Inventory System",
-            description: "Modern drag-and-drop inventory system with item crafting",
-            image: "/projects/inventory.jpg",
-            tags: ["Lua", "JavaScript", "UI/UX"],
-            liveUrl: null,
-            githubUrl: null,
-            featured: false
-        }
-        // Add more projects here
+        // Add your projects here
     ],
 
     // SEO & Meta

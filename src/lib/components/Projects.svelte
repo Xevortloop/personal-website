@@ -1,4 +1,4 @@
-<script>
+<!-- <script>
     import { config } from "$lib/config.js";
 
     // Filter featured projects
@@ -204,4 +204,4 @@
             flex-direction: column;
         }
     }
-</style>
+</style> -->

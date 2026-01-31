@@ -6,6 +6,9 @@
     <div class="container">
         <div class="hero-content">
             <div class="hero-text fade-in-up">
+                <div class="hero-logo">
+                    <img src="/logo.png" alt="Xev Logo" />
+                </div>
                 <h1>
                     Hi, I'm <span class="gradient-text"
                         >{config.personal.name}</span
@@ -53,6 +56,18 @@
     .hero-text {
         max-width: 800px;
         margin: 0 auto;
+    }
+
+    .hero-logo {
+        margin-bottom: 2rem;
+        animation: float 6s ease-in-out infinite;
+    }
+
+    .hero-logo img {
+        width: 150px;
+        height: 150px;
+        object-fit: contain;
+        filter: drop-shadow(0 0 30px rgba(99, 102, 241, 0.5));
     }
 
     .hero-title {
@@ -128,6 +143,11 @@
     @media (max-width: 768px) {
         .hero {
             min-height: 80vh;
+        }
+
+        .hero-logo img {
+            width: 120px;
+            height: 120px;
         }
 
         .hero-tagline {
