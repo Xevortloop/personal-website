@@ -1,5 +1,7 @@
 // Isi portfolio dalam dua bahasa (en & id). Edit teks di sini; tampilan ada di src/routes/+page.svelte.
 
+export const site = { url: 'https://xev.my.id' };
+
 export const contact = {
 	email: 'xevortloop@gmail.com',
 	discord: '@xevort_',
@@ -125,7 +127,7 @@ const id = {
 	seo: {
 		title: 'Xev: Developer FiveM, Web, Infra & Bot',
 		description:
-			'Xev adalah developer di Noctis: script FiveM, aplikasi web full-stack, infrastruktur self-hosted, dan bot chat, dibangun dan dijalankan sendiri dari awal sampai akhir.'
+			'Xev adalah developer di Noctis: script FiveM, aplikasi web full-stack, infrastruktur self-hosted, dan bot chat, dibangun dan dijalankan sendiri.'
 	},
 	ui: {
 		nav: { about: 'Tentang', journey: 'Perjalanan', roles: 'Keahlian', work: 'Karya', contact: 'Kontak', cta: 'Hubungi saya' },
