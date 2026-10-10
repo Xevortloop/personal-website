@@ -13,7 +13,7 @@ const en = {
 	seo: {
 		title: 'Xev: FiveM, Web, Infra & Bots Developer',
 		description:
-			'Xev is a developer at Noctis: FiveM scripts, full-stack web apps, self-hosted infrastructure and chat bots, built and run end to end.'
+			'Xev is head developer at Noctis: FiveM scripts, full-stack web apps, self-hosted infrastructure and chat bots, built and run end to end.'
 	},
 	ui: {
 		nav: { about: 'About', journey: 'Journey', roles: 'What I do', work: 'Work', contact: 'Contact', cta: "Let's talk" },
@@ -44,7 +44,7 @@ const en = {
 	hero: {
 		lines: ["Hi, I'm Xev.", 'I build it, then I run it.'],
 		intro: 'FiveM scripts, web apps, self-hosted infrastructure and bots. I design, build and run each of them myself, end to end.',
-		badges: ['Developer at Noctis', 'Self-hosted, end to end', 'Direct contact, no middlemen']
+		badges: ['Head Developer at Noctis', 'Self-hosted, end to end', 'Direct contact, no middlemen']
 	},
 	stats: [
 		{ value: '4', label: 'Areas of work' },
@@ -52,7 +52,7 @@ const en = {
 		{ value: '24/7', label: 'Self-hosted services' }
 	],
 	experience: [
-		{ role: 'Developer', org: 'PT Noctis Interactive Entertainment', period: 'Now', text: 'Scripts, resources and gameplay systems for the Noctis FiveM roleplay server.', href: NOCTIS },
+		{ role: 'Head Developer', org: 'PT Noctis Interactive Entertainment', period: 'Now', text: 'Scripts, resources and gameplay systems for the Noctis FiveM roleplay server.', href: NOCTIS },
 		{ role: 'Developer', org: 'Nusaindah Roleplay', period: '', text: 'FiveM development for the Nusaindah roleplay community.', href: '' }
 	],
 	education: [
@@ -61,9 +61,9 @@ const en = {
 	],
 	about: {
 		eyebrow: 'who i am',
-		title: 'Developer at Noctis, builder at home',
+		title: 'Head developer at Noctis, builder at home',
 		paragraphs: [
-			"I'm Xev, a developer on the Noctis team, working on the FiveM roleplay server: scripts, resources and the systems players touch every day.",
+			"I'm Xev, head developer at Noctis, working on the FiveM roleplay server: scripts, resources and the systems players touch every day.",
 			'Outside of that I build and self-host my own tools: a deploy platform, web dashboards and chat bots, all running on hardware I manage. Same rule everywhere: do it properly and own the details.'
 		]
 	},
@@ -125,7 +125,7 @@ const id = {
 	seo: {
 		title: 'Xev: Developer FiveM, Web, Infra & Bot',
 		description:
-			'Xev adalah developer di Noctis: script FiveM, aplikasi web full-stack, infrastruktur self-hosted, dan bot chat, dibangun dan dijalankan sendiri dari awal sampai akhir.'
+			'Xev adalah head developer di Noctis: script FiveM, aplikasi web full-stack, infrastruktur self-hosted, dan bot chat, dibangun dan dijalankan sendiri dari awal sampai akhir.'
 	},
 	ui: {
 		nav: { about: 'Tentang', journey: 'Perjalanan', roles: 'Keahlian', work: 'Karya', contact: 'Kontak', cta: 'Hubungi saya' },
@@ -156,7 +156,7 @@ const id = {
 	hero: {
 		lines: ['Halo, saya Xev.', 'Saya bangun, lalu saya jalankan.'],
 		intro: 'Script FiveM, aplikasi web, infrastruktur self-hosted, dan bot. Saya merancang, membangun, dan menjalankan semuanya sendiri, dari awal sampai akhir.',
-		badges: ['Developer di Noctis', 'Self-hosted, end to end', 'Kontak langsung, tanpa perantara']
+		badges: ['Head Developer di Noctis', 'Self-hosted, end to end', 'Kontak langsung, tanpa perantara']
 	},
 	stats: [
 		{ value: '4', label: 'Bidang keahlian' },
@@ -164,7 +164,7 @@ const id = {
 		{ value: '24/7', label: 'Layanan self-hosted' }
 	],
 	experience: [
-		{ role: 'Developer', org: 'PT Noctis Interactive Entertainment', period: 'Sekarang', text: 'Script, resource, dan sistem gameplay untuk server roleplay FiveM Noctis.', href: NOCTIS },
+		{ role: 'Head Developer', org: 'PT Noctis Interactive Entertainment', period: 'Sekarang', text: 'Script, resource, dan sistem gameplay untuk server roleplay FiveM Noctis.', href: NOCTIS },
 		{ role: 'Developer', org: 'Nusaindah Roleplay', period: '', text: 'Pengembangan FiveM untuk komunitas roleplay Nusaindah.', href: '' }
 	],
 	education: [
@@ -173,9 +173,9 @@ const id = {
 	],
 	about: {
 		eyebrow: 'tentang saya',
-		title: 'Developer di Noctis, builder di rumah',
+		title: 'Head developer di Noctis, builder di rumah',
 		paragraphs: [
-			'Saya Xev, developer di tim Noctis, mengerjakan server roleplay FiveM: script, resource, dan sistem yang dipakai pemain setiap hari.',
+			'Saya Xev, head developer di Noctis, mengerjakan server roleplay FiveM: script, resource, dan sistem yang dipakai pemain setiap hari.',
 			'Di luar itu saya membangun dan meng-host sendiri tools saya: platform deploy, dashboard web, dan bot chat, semuanya berjalan di server yang saya kelola. Aturannya sama di mana pun: kerjakan dengan benar dan kuasai detailnya.'
 		]
 	},
