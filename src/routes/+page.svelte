@@ -150,7 +150,7 @@
 <header class="nav">
 	<div class="container nav-inner">
 		<a href="#top" class="brand" aria-label="Xev, back to top">
-			<span class="brand-logo"><img src="/logo.png" alt="" width="34" height="34" /></span>
+			<img class="brand-logo" src="/logo.svg" alt="" width="38" height="38" />
 			<span class="brand-name">xev<span class="caret">_</span></span>
 		</a>
 		<nav class="links" aria-label="Main">
@@ -399,20 +399,11 @@
 		align-items: center;
 		gap: 10px;
 	}
+	/* logo jendela terminal: border dan bayangan cyan sudah ada di SVG-nya */
 	.brand-logo {
-		width: 36px;
-		height: 36px;
-		border: var(--bw) solid var(--line);
-		border-radius: 12px;
-		overflow: hidden;
-		background: #000;
-		box-shadow: 2px 3px 0 var(--shadow-c);
-	}
-	.brand-logo img {
-		width: 100%;
-		height: 100%;
-		object-fit: cover;
-		transform: scale(1.55) translateY(-6%);
+		display: block;
+		width: 38px;
+		height: 38px;
 	}
 	.brand-name {
 		font-family: var(--mono);

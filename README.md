@@ -153,7 +153,7 @@ src/
 └── app.css                   # Global styles
 
 static/
-├── logo.png                  # Your logo
+├── logo.svg                  # Logo (jendela terminal)
 ├── CNAME                     # Custom domain config
 └── .nojekyll                 # Disable Jekyll
 
