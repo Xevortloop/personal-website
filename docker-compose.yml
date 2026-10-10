@@ -1,0 +1,8 @@
+name: website-portofolio
+services:
+  portfolio:
+    build: .
+    container_name: portfolio
+    restart: unless-stopped
+    ports:
+      - "5000:80"
